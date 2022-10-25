@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">animapp</string>
+    <string name="poza_profil">Introdu o poza de profil</string>
+    <string name="profil_name" />
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_home">home</string>
+    <string name="title_search">search</string>
+    <string name="title_profile">profil</string>
+</resources>
